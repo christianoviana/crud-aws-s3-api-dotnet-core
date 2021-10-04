@@ -1,0 +1,15 @@
+#Untracked Files
+
+#.vs Folder
+.vs/
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+#Build Results
+[Bb]in/
+[Oo]bj/
+x86/
+x64/
